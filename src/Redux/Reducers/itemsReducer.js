@@ -4,7 +4,22 @@ import axios from "axios";
 const initialState = {
   item1: {
     name: "chainsaw",
-    price: "89.99",
+    price: "$89.99",
+    pic:"https://pngimage.net/wp-content/uploads/2018/05/bloody-chainsaw-png-2.png"
+  },
+  item2: {
+    name: "axe",
+    price: "$89.99",
+    pic:"https://pngimage.net/wp-content/uploads/2018/05/bloody-chainsaw-png-2.png"
+  },
+  item3: {
+    name: "toilet paper",
+    price: "$89.99",
+    pic:"https://pngimage.net/wp-content/uploads/2018/05/bloody-chainsaw-png-2.png"
+  },
+  item3: {
+    name: "hand sanitizer",
+    price: "$89.99",
     pic:"https://pngimage.net/wp-content/uploads/2018/05/bloody-chainsaw-png-2.png"
   }
 };
